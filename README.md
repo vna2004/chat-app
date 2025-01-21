@@ -13,6 +13,9 @@ This is a real-time chat application built using Flask and Socket.IO. The app al
 - Flask
 - Flask-SocketIO
 
+## 🔮User Interface
+![Image](https://github.com/user-attachments/assets/54e066be-8178-4cff-9846-6887d48dc20f)
+
 ## 🔗Installation
 1. Clone this repository:
    ```bash
@@ -31,6 +34,6 @@ This is a real-time chat application built using Flask and Socket.IO. The app al
 
 ```
 
-## 🪄Output
+## Output
 When a user connects, they receive a randomly generated username like `User_1234` and an avatar URL. Messages sent by any user are broadcasted to all connected clients in real time.
-![Image](https://github.com/user-attachments/assets/54e066be-8178-4cff-9846-6887d48dc20f)
+
