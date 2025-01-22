@@ -2,6 +2,8 @@
 
 This is a real-time chat application built using Flask and Socket.IO. The app allows users to join with a randomly generated username and avatar, send messages, update their username, and leave the chat seamlessly.
 
+⚙️View the site at : https://chat-app-1-fn4m.onrender.com
+
 ## ⭐Features
 - **Real-Time Messaging**: Leverages Socket.IO for instantaneous message broadcasting.
 - **Dynamic Usernames and Avatars**: Users are assigned unique usernames and avatars on connection.
